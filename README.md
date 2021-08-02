@@ -1,2 +1,3 @@
 hoge
 fugatest
+hoge
