@@ -1,3 +1,4 @@
 hoge
 fugatest
-hoge
+hoge hoge
+
